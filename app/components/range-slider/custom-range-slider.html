@@ -1,0 +1,15 @@
+<h1 class='title'>Range slider with {{title}}</h1>
+
+<div class="slider-container">
+	<ul class="slider-list">
+		<li class="slider-element" *ngFor="#item of slides">
+			<div class="slider-image" style="background-image: url('{{item.urlPath}}');">
+				<div class="slider-name">{{item.name}}</div>
+			</div>
+		</li>
+	</ul>
+	<div class="slider-bar slider-parent">
+		<div class="slider-bar slider"></div>
+	</div>
+</div>
+

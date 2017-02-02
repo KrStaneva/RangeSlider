@@ -1,0 +1,22 @@
+[
+	{
+		"name" : "dog",
+		"urlPath" : "content/images/dog.jpg"
+	},
+	{
+		"name" : "cat",
+		"urlPath" : "content/images/cat.jpeg"
+	},
+	{
+		"name" : "parrot",
+		"urlPath" : "content/images/parrot.jpg"
+	},
+	{
+		"name" : "fish",
+		"urlPath" : "content/images/fish.jpg"
+	},
+	{
+		"name" : "rabbit",
+		"urlPath" : "content/images/rabbit.jpg"
+	}
+]
